@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Cheap Flight Tracker**
 
-- 🌱 I’m currently learning **API, ReactJs**
+- 🌱 I’m currently learning **API, ReactJs,Flutter**
 
 - 💬 Ask me about **Python, C, C++, ReactJs**
 
