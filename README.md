@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **API, ReactJs,Flutter**
 
-- 💬 Ask me about **Python, C, C++, ReactJs**
+- 💬 Ask me about **Computer and its technology**
 
 - 📫 How to reach me **vikneshsrv24@gmail.com**
 
