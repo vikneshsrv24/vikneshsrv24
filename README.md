@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Cheap Flight Tracker**
+- 🔭 I’m currently working on **Deztro-Mac_$66_@shoppersstop**
 
-- 🌱 I’m currently learning **API, ReactJs,Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Computer and its technology**
 
