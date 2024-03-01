@@ -6,16 +6,20 @@
 
 
 
+## languages
+ <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
 
-- 🌱 I’m currently learning **Flutter**
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
 
-- 💬 Ask me about **Computer and its technology**
-
-- 📫 How to reach me **vikneshsrv24@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
+    
 <a href="https://www.linkedin.com/in/viknesh-srv-b12a87223/
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viknesh srv" height="30" width="40
 " alt="viknesh srv" height="30" width="40" /></a>
