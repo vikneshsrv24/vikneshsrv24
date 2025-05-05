@@ -1,12 +1,27 @@
-# 💫 About Me:
-🔭 I’m currently working on Backend Applications<br>👯 I’m looking to collaborate on any Open-Source<br>🤝 I’m looking for help with AI
+### Hi there 👋🏽, I'm Viknesh  
+#### 🧑🏽‍💻 Backend Developer in Progress | 🧠 AI Enthusiast | 🚀 FastAPI Learner
 
+I'm currently diving deep into **Python backend development** with a focus on **FastAPI**, **AI agents**, and **ML-powered tools**.  
+I love building useful, unique, and culturally relevant projects that stand out.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikneshsrv24&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vikneshsrv24&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikneshsrv24&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🌱 **Learning & Building With**
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
+---
+
+🛠️ **Projects in Progress**
+- 📓 Action Logger CLI App (Python + OOP)
+- 🍽️ Eating-Time Video Recommender (AI + NLP)
+- 🧘🏽‍♂️ Thirukkural AI (coming soon – context-aware wisdom assistant)
+
+🎯 **Goal**
+Become a **remote-ready backend + AI developer** with a standout project portfolio by mid-2025.
+
+📫 **Let's connect**
+- [LinkedIn](https://linkedin.com/in/vikneshsrv24)
+- [GitHub](https://github.com/vikneshsrv24)
