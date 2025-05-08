@@ -1,8 +1,7 @@
-### Hi there 👋🏽, I'm Viknesh  
-#### 🧑🏽‍💻 Backend Developer in Progress | 🧠 AI Enthusiast | 🚀 FastAPI Learner
-
-I'm currently diving deep into **Python backend development** with a focus on **FastAPI**, **AI agents**, and **ML-powered tools**.  
-I love building useful, unique, and culturally relevant projects that stand out.
+### Hey there 👋🏻, I'm Viknesh S R
+#### 🧑🏽‍💻 Backend Developer | 🧠 AI Enthusiast.
+I'm currently diving deep into **Building tools that makes life little easier 😉**.  
+I love building useful, unique, and culturally relevant projects 🦚.
 
 ---
 
@@ -14,14 +13,10 @@ I love building useful, unique, and culturally relevant projects that stand out.
 
 ---
 
-🛠️ **Projects in Progress**
-- 📓 Action Logger CLI App (Python + OOP)
-- 🍽️ Eating-Time Video Recommender (AI + NLP)
-- 🧘🏽‍♂️ Thirukkural AI (coming soon – context-aware wisdom assistant)
-
 🎯 **Goal**
-Become a **remote-ready backend + AI developer** with a standout project portfolio by mid-2025.
+- **Build great things ! 🧩🌌⚜️**
 
 📫 **Let's connect**
-- [LinkedIn](https://linkedin.com/in/vikneshsrv24)
+- [LinkedIn](https://www.linkedin.com/in/vikneshsrv24/)
 - [GitHub](https://github.com/vikneshsrv24)
+- [Mail](vikneshsrv24@gmail.com)
