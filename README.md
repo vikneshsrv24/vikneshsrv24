@@ -19,4 +19,4 @@ I love building useful, unique, and culturally relevant projects 🦚.
 📫 **Let's connect**
 - [LinkedIn](https://www.linkedin.com/in/vikneshsrv24/)
 - [GitHub](https://github.com/vikneshsrv24)
-- [Mail](vikneshsrv24@gmail.com)
+- Mail me @ vikneshsrv24@gmail.com
