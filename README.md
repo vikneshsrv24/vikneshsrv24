@@ -1,6 +1,6 @@
 ### Hey there 👋🏻, I'm Viknesh S R
 #### 🧑🏽‍💻 Backend Developer | 🧠 AI Enthusiast.
-I'm currently diving deep into **Building tools that makes life little easier 😉**.  
+I'm currently diving deep into **Building tools that makes life, a little easier 😉**.  
 I love building useful, unique, and culturally relevant projects 🦚.
 
 ---
